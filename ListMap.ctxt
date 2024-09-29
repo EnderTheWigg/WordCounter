@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ListMap
+comment1.params=
+comment1.target=ListMap()
+comment10.params=
+comment10.target=Set\ keySet()
+comment2.params=key
+comment2.target=boolean\ containsKey(java.lang.Object)
+comment3.params=value
+comment3.target=boolean\ containsValue(java.lang.Object)
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=key
+comment6.target=java.lang.Object\ get(java.lang.Object)
+comment7.params=key\ value
+comment7.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment8.params=key
+comment8.target=java.lang.Object\ remove(java.lang.Object)
+comment9.params=
+comment9.target=java.util.List\ values()
+numComments=11
